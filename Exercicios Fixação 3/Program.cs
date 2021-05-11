@@ -22,23 +22,21 @@ namespace Exercicios_Fixação_3
             if ( qnt<=5 )
             {
             double preçoTotal = preço * 0.98;
-            Console.WriteLine("Você pagará R$" + preçoTotal);
+            Console.WriteLine("Você pagará R$ " + preçoTotal);
             }
 
            else if (qnt > 5 && qnt <=10)
            {
             double preçoTotal = preço * 0.97;
-            Console.WriteLine("Você pagará R$" + preçoTotal);
+            Console.WriteLine("Você pagará R$ " + preçoTotal);
 
            }
 
            else if (qnt > 10)
            {
             double preçoTotal = preço * 0.95;
-            Console.WriteLine("Você pagará R$" + preçoTotal);
+            Console.WriteLine("Você pagará R$ " + preçoTotal);
            }
-          
-      
         }
     }
 }

@@ -27,10 +27,10 @@ namespace Exercicios_Fixação_2
                 if (litros <= 20)
                 {
                  double valorTotal = litros * descontoA1;
-                 Console.WriteLine("")
+                 Console.WriteLine("Você pagará: ");
                 } else{
                  double valorTotal = litros * descontoA2;
-
+                 Console.WriteLine("Você pagará: ");
                 }
             }
 
@@ -38,15 +38,17 @@ namespace Exercicios_Fixação_2
             if (Combustivel == "G" || Combustivel == "g")
             {
                 Console.WriteLine("O Combustivel escolhido foi Gasolina = 5,30");
-            }
-
-            if (litros <= 20)
+                if (litros <= 20)
             {
-
-                descontoG1 = litros * 5.3;
-
+                double valorTotal = litros * descontoG1;
+                Console.WriteLine("Você pagará: ");
+                
+            }else{
+                double valorTotal = litros * descontoG2;
+                Console.WriteLine("Você pagará: ");
             }
 
+            }
         }
 
     }

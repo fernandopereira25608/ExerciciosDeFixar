@@ -30,6 +30,5 @@ namespace Exercicios_Fixação_1
 
         }
 
-    
     }
 }

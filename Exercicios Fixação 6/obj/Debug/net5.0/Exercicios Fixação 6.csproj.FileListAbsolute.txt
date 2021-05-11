@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Exercicios Fixação 6\bin\Debug\net5.0\Exercicios Fixação 6.exe
+C:\Users\dev\Desktop\Exercicios Fixação 6\bin\Debug\net5.0\Exercicios Fixação 6.deps.json
+C:\Users\dev\Desktop\Exercicios Fixação 6\bin\Debug\net5.0\Exercicios Fixação 6.runtimeconfig.json
+C:\Users\dev\Desktop\Exercicios Fixação 6\bin\Debug\net5.0\Exercicios Fixação 6.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Exercicios Fixação 6\bin\Debug\net5.0\Exercicios Fixação 6.dll
+C:\Users\dev\Desktop\Exercicios Fixação 6\bin\Debug\net5.0\ref\Exercicios Fixação 6.dll
+C:\Users\dev\Desktop\Exercicios Fixação 6\bin\Debug\net5.0\Exercicios Fixação 6.pdb
+C:\Users\dev\Desktop\Exercicios Fixação 6\obj\Debug\net5.0\Exercicios Fixação 6.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Exercicios Fixação 6\obj\Debug\net5.0\Exercicios Fixação 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Exercicios Fixação 6\obj\Debug\net5.0\Exercicios Fixação 6.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Exercicios Fixação 6\obj\Debug\net5.0\Exercicios Fixação 6.AssemblyInfo.cs
+C:\Users\dev\Desktop\Exercicios Fixação 6\obj\Debug\net5.0\Exercicios Fixação 6.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Exercicios Fixação 6\obj\Debug\net5.0\Exercicios Fixação 6.dll
+C:\Users\dev\Desktop\Exercicios Fixação 6\obj\Debug\net5.0\ref\Exercicios Fixação 6.dll
+C:\Users\dev\Desktop\Exercicios Fixação 6\obj\Debug\net5.0\Exercicios Fixação 6.pdb
+C:\Users\dev\Desktop\Exercicios Fixação 6\obj\Debug\net5.0\Exercicios Fixação 6.genruntimeconfig.cache
